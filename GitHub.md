@@ -70,10 +70,10 @@
   
   - git clone: faz uma copia(clone) de um repositorio.
 
-
-
-
-
 # Git Avançado
+
+git checkout -- . : desfaz todas as alterações no projeto antes do commit!
+
+git checkout -- nomeDoArquivo: remove as alterações realizadas em um arquivo especifico
 
 
