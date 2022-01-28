@@ -72,8 +72,10 @@
 
 # Git Avançado
 
-git checkout -- . : desfaz todas as alterações no projeto antes do commit!
+* git checkout -- . : desfaz todas as alterações no projeto antes do commit!
 
-git checkout -- nomeDoArquivo: remove as alterações realizadas em um arquivo especifico
+* git checkout -- nomeDoArquivo: remove as alterações realizadas em um arquivo especifico
+
+* 
 
 
