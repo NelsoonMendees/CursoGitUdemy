@@ -76,6 +76,10 @@
 
 * git checkout -- nomeDoArquivo: remove as alterações realizadas em um arquivo especifico
 
+* git revert idDoComit : reverte um commit realizado.
+
+* git reset HEAD~1 : remove o commit
+  
+  * O numero 1 representa quantos commits vc quer alterar. 
+
 * 
-
-
